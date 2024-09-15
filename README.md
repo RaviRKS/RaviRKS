@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravirks&label=Profile%20views&color=0e75b6&style=flat" alt="ravirks" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Java Full Stack**
 
 - 💬 Ask me about **Coding, Machine Learning and Web Development**
 
